@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = ""
 title = "Hyped Network"
 languageCode = "pt-br"
 paginate = "10" # Number of posts per page
