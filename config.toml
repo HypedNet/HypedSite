@@ -22,8 +22,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Params.logo]
   image	   = "img/logo.png"
-  title	   = "HYPED NETWORK"
-  subtitle = "De Gamer Para Gamers" # Logo subtitle
+
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page
