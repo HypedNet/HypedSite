@@ -1,5 +1,5 @@
 baseurl = ""
-title = ""
+title = "entertainment network"
 languageCode = "pt-br"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
